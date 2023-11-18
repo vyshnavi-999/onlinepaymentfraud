@@ -1,10 +1,3 @@
-Flask
-Gunicorn
-scikit-learn==<version>
-pandas==<version>
 numpy==<version>
-matplotlib==<version>
-seaborn==<version>
-scipy==<version>
-tensorflow==<version>
-keras==<version>
+Flask==<version>
+scikit-learn==<version>
